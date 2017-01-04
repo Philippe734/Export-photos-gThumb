@@ -1,5 +1,4 @@
-# export-photos-gthumb
-Script for gThumb to export a photo album
+# Script for gThumb to export a photo album
 
 Script for gThumb under Linux.
 
