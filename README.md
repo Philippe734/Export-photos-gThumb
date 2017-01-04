@@ -11,8 +11,10 @@ Quality = compress ratio, for example 50
 TargetDirPath = the output path of the album, keeping the folder name (album).
 
 Install and setup :
-With gThum, clic Tools, then select Custom.
+With gThumb, clic Tools, then select Custom.
+http://img15.hostingpics.net/pics/830310personnaliser.png
 Clic New, then set a name as Export photo album.
+http://img15.hostingpics.net/pics/329045new.png
 Then, in the command line, set the path to the script and add %P
 Name : Export photo album
 Command : /home/user/Documents/Scripts/Export_photo_album_gThumb.sh %P
