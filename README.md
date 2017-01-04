@@ -18,6 +18,7 @@ Modify these variables to suit to your needs
 ### Install and setup 
 
 Download the attached script and put it in your Home directory.
+
 With gThumb, clic Tools, then select Custom.
 
 ![](http://img15.hostingpics.net/pics/564395personnaliser.png)
@@ -27,6 +28,7 @@ Clic New, then set a name as Export photo album.
 ![](http://img15.hostingpics.net/pics/450457new.png)
 
 Then, in the command line, set the path to the script and add %P
+
     Name : Export photo album
     Command : /home/user/Documents/Scripts/Export_photo_album_gThumb.sh %P
     
