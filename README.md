@@ -42,3 +42,4 @@ During the process, a progress dialog is displayed.
 
 ![](http://img15.hostingpics.net/pics/363539progress.png)
 
+### Download : [HERE (do save as...)](https://github.com/Philippe734/export-photos-gthumb/raw/master/Export_photo_album_gThumb.sh)
